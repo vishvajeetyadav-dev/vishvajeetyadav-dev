@@ -155,7 +155,8 @@ I believe the best way to grow as a developer is by continuously building real p
 ## 📫 Connect With Me
 
 **Email:** yadavvishvajeet100@gmail.com  
-**GitHub:** [Vishvajeet Yadav](https://github.com/yadavvishvajeet100-star)
+**GitHub:** vishvajeetyadav-dev
+
 
 ---
 
