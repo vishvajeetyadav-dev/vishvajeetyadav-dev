@@ -1,5 +1,5 @@
 # 💫 About Me:
-                             Hi, I'm Vishvajeet Yadav 👋<br>     Web Developer | Full-Stack Developer | AI Enthusiast<br><br>🚀 Currently Building: AI-powered & full-stack applications<br>💻 Core Focus: Frontend • Backend • REST APIs • SaaS Development<br>🤖 Exploring: AI Integration • Intelligent Web Applications<br>🔐 Interested In: Authentication • Security • Backend Architecture<br>☁️ Working With: Cloud Deployment • Databases • Modern Web Technologies<br>🌱 Learning: Continuously improving through real-world projects and hands-on development<br>
+ Hi, I'm Vishvajeet Yadav 👋<br>Web Developer | Full-Stack Developer | AI Enthusiast<br><br>🚀 Currently Building: AI-powered & full-stack applications<br>💻 Core Focus: Frontend • Backend • REST APIs • SaaS Development<br>🤖 Exploring: AI Integration • Intelligent Web Applications<br>🔐 Interested In: Authentication • Security • Backend Architecture<br>☁️ Working With: Cloud Deployment • Databases • Modern Web Technologies<br>🌱 Learning: Continuously improving through real-world projects and hands-on development<br>
 
 
 ## 🌐 Socials:
